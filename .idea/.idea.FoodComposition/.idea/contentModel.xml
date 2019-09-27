@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/Library/Caches/Rider2019.2/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.2/resharper-host/local/Transient/ReSharperHost/v192/SolutionCaches/_FoodComposition.-1783933159.00" t="ExcludeRecursive" />
+    <e p="$APPLICATION_CONFIG_DIR$/scratches" t="IncludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="CsvHelper.cs" t="Include" />
+      <e p="Food.cs" t="Include" />
+      <e p="FoodComposition.csproj" t="IncludeRecursive" />
+      <e p="FoodComposition.sln" t="IncludeFlat" />
+      <e p="FoodFactory.cs" t="Include" />
+      <e p="FoodFactoryTest.cs" t="Include" />
+      <e p="NutrientFactory.cs" t="Include" />
+      <e p="NutrientFactoryTest.cs" t="Include" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="packages.config" t="Include" />
+      <e p="Program.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="AssemblyInfo.cs" t="Include" />
+      </e>
+      <e p="UnitFactory.cs" t="Include" />
+      <e p="UnitFactoryTest.cs" t="Include" />
+      <e p="Value.cs" t="Include" />
+      <e p="ValueTest.cs" t="Include" />
+    </e>
+  </component>
+</project>

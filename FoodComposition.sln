@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodComposition", "FoodComposition.csproj", "{EE575C91-43C2-40A1-ABA2-9C80409E63DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE575C91-43C2-40A1-ABA2-9C80409E63DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE575C91-43C2-40A1-ABA2-9C80409E63DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE575C91-43C2-40A1-ABA2-9C80409E63DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE575C91-43C2-40A1-ABA2-9C80409E63DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
