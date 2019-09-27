@@ -11,9 +11,10 @@ namespace FoodComposition
         public static void Main(string[] args)
         {
             using (var reader = new StreamReader(
-                @"/Users/tracey.steinbach/RiderProjects/FoodComposition/data/NutrientCSV/All solids & liquids per 100g-Table 1.csv")
+                @"/Users/tracey.steinbach/RiderProjects/FoodComposition/FoodComposition/data/NutrientCSV/All solids & liquids per 100g-Table 1.csv")
             )
             {
+                
                 var header = reader.ReadLine();
                 var units = reader.ReadLine();
                 
