@@ -53,6 +53,7 @@
     <Compile Include="Food.cs" />
     <Compile Include="FoodFactory.cs" />
     <Compile Include="FoodFactoryTest.cs" />
+    <Compile Include="FoodQueriesTest.cs" />
     <Compile Include="NutrientFactory.cs" />
     <Compile Include="NutrientFactoryTest.cs" />
     <Compile Include="Program.cs" />

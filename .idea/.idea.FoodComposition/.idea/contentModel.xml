@@ -12,6 +12,7 @@
       <e p="FoodComposition.sln" t="IncludeFlat" />
       <e p="FoodFactory.cs" t="Include" />
       <e p="FoodFactoryTest.cs" t="Include" />
+      <e p="FoodQueriesTest.cs" t="Include" />
       <e p="NutrientFactory.cs" t="Include" />
       <e p="NutrientFactoryTest.cs" t="Include" />
       <e p="obj" t="ExcludeRecursive" />

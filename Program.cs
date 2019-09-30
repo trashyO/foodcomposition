@@ -14,7 +14,6 @@ namespace FoodComposition
                 @"/Users/tracey.steinbach/RiderProjects/FoodComposition/FoodComposition/data/NutrientCSV/All solids & liquids per 100g-Table 1.csv")
             )
             {
-                
                 var header = reader.ReadLine();
                 var units = reader.ReadLine();
                 

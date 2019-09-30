@@ -1,0 +1,13 @@
+/Users/tracey.steinbach/RiderProjects/FoodComposition/FoodComposition/bin/Debug/FoodComposition.exe
+/Users/tracey.steinbach/RiderProjects/FoodComposition/FoodComposition/bin/Debug/FoodComposition.pdb
+/Users/tracey.steinbach/RiderProjects/FoodComposition/FoodComposition/bin/Debug/FluentAssertions.dll
+/Users/tracey.steinbach/RiderProjects/FoodComposition/FoodComposition/bin/Debug/nunit.framework.dll
+/Users/tracey.steinbach/RiderProjects/FoodComposition/FoodComposition/bin/Debug/FluentAssertions.pdb
+/Users/tracey.steinbach/RiderProjects/FoodComposition/FoodComposition/bin/Debug/FluentAssertions.xml
+/Users/tracey.steinbach/RiderProjects/FoodComposition/FoodComposition/bin/Debug/nunit.framework.pdb
+/Users/tracey.steinbach/RiderProjects/FoodComposition/FoodComposition/bin/Debug/nunit.framework.xml
+/Users/tracey.steinbach/RiderProjects/FoodComposition/FoodComposition/obj/Debug/FoodComposition.csprojAssemblyReference.cache
+/Users/tracey.steinbach/RiderProjects/FoodComposition/FoodComposition/obj/Debug/FoodComposition.csproj.CoreCompileInputs.cache
+/Users/tracey.steinbach/RiderProjects/FoodComposition/FoodComposition/obj/Debug/FoodComposition.csproj.CopyComplete
+/Users/tracey.steinbach/RiderProjects/FoodComposition/FoodComposition/obj/Debug/FoodComposition.exe
+/Users/tracey.steinbach/RiderProjects/FoodComposition/FoodComposition/obj/Debug/FoodComposition.pdb
